@@ -3,6 +3,7 @@ body{
 	paddin: 0;
 	background: url(bg.jpg) no-repeat;
 	background-size: cover;
+	
 	}
 	
 .floating-box {
@@ -11,23 +12,35 @@ body{
     height: 500px;
 	margin-top: 0%;
     margin-left: 8%; 
-	text: top;
-}
+	text-top: top-center;
+	font-family: 'Bradley hand ITC', sans-serif;
+	}
 
 .floating-box-img{
 	width: 300px; 
 	height: 500px;
 	margin: right;
     margin-left: 20%;
-	margin-top: 15%;	
+	margin-top: 0%;	
+	position: absolute;
+	left: -19px;
+	top: 15%;
+}
+
+.floating-box-im{
+	width: 25px;
+	height:25px;
+	margin-top: 50%;
+	margin-left: 100%;
 }
 
 .floating-box h1{
-	width: 550px; 
+	width: 600px; 
 	height: 270px;
 	font-size:40px;
 	margin: left;
 	margin-left: -18%;
 	margin-top: 50%;
-	
+	position: static;
+	top: 0px;
 }
