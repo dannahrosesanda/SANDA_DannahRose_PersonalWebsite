@@ -25,6 +25,7 @@ body{
 	position: absolute;
 	left: -19px;
 	top: 15%;
+	border-radius: 40px;
 }
 
 .floating-box-im{
