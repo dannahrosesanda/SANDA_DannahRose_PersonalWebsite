@@ -144,3 +144,14 @@ body{
 	font-family: 'Century Gothic', sans-serif;
 	font-size: 12px;
 }
+
+
+.facts{
+	width: 1000px;
+	height: 500px;
+	color: black;
+	background-color: rgba (0, 0, 0, 0.1);
+	margin-top: 10%;
+	margin-left: 14%;
+	text-align: center;
+}
