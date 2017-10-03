@@ -98,10 +98,18 @@ body{
 	top: 15%;
 	border-radius: 40px;
 }
-
+ 
 .floating-image{
 	width: 450px;
 	height: 450 px;
 	margin-left: -2%;
 	margin-top: 7%;
+}
+
+.bottom{
+	width: 1349px;
+	height: 55px;
+	margin-left: 0%;
+	margin: buttom;
+	margin-top: %;
 }
