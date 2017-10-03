@@ -63,3 +63,11 @@ body{
 	margin-left: 2%;
 	margin-top: .2%;
 }
+
+.body p{
+	font-size: 40px;
+	margin-top: 40%;
+	margin-right: -5%;
+	text-align: center;
+	
+}
