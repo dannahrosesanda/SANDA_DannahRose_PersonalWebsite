@@ -1,47 +1,8 @@
 body{
 	margin: 0;
 	paddin: 0;
-	background: url(bg.jpg) no-repeat;
+	background: url(img/bground.jpg) fixed;
 	background-size: cover;
-	
-	}
-	
-.floating-box {
-    display: inline-block;
-    width: 500px;
-    height: 500px;
-	margin-top: 0%;
-    margin-left: 8%; 
-	text-top: top-center;
-	font-family: 'Bradley hand ITC', sans-serif;
-	}
-
-.floating-box-img{
-	width: 300px; 
-	height: 500px;
-	margin: right;
-    margin-left: 20%;
-	margin-top: 0%;	
 	position: absolute;
-	left: -19px;
-	top: 15%;
-	border-radius: 40px;
-}
-
-.floating-box-im{
-	width: 25px;
-	height:25px;
-	margin-top: 50%;
-	margin-left: 100%;
-}
-
-.floating-box h1{
-	width: 600px; 
-	height: 270px;
-	font-size:40px;
-	margin: left;
-	margin-left: -18%;
-	margin-top: 50%;
-	position: static;
-	top: 0px;
-}
+	}
+	
